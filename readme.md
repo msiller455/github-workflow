@@ -1,3 +1,6 @@
 # Github Workflow Practice
 
-Hello from readme!
+
+hello from ted
+
+hello from Terrell
